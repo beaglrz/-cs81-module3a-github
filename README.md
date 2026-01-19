@@ -2,31 +2,31 @@
 
 JavaScript Functions
 
-- **greet(name)** 
+* **greet(name)**
 
-&nbsp; Returns a greeting using the user's name.
-
-
-
-\- **timeGreet(name, hour)**  
-
-&nbsp; Returns a greeting based on the time of day (morning or evening).
+  Returns a greeting using the user's name.
 
 
 
-\- **add(a, b)** 
+*  **timeGreet(name, hour)**
 
-&nbsp; Returns the sum of two numbers.
-
-
-
-\- **subtract(a, b)** 
-
-&nbsp; Returns the difference between two numbers.
+  Returns a greeting based on the time of day (morning or evening).
 
 
 
-\- **isPositive(num)**  
+* **add(a, b)**
 
-&nbsp; Returns true if the number is positive and false otherwise.
+  Returns the sum of two numbers.
+
+
+
+* **subtract(a, b)**
+
+  Returns the difference between two numbers.
+
+
+
+* **isPositive(num)**
+
+  Returns true if the number is positive and false otherwise.
 
